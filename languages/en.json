@@ -1,0 +1,25 @@
+{
+	"theme-data":
+	{
+		"name": "Solen",
+		"description": "A bright and simple blogging theme"
+	},
+	"welcome": "Welcome!",
+	"minutes": "minutes",
+	"author": "Author",
+	"date":"Date published",
+	"read": "Reading time",
+	"next": "Next Page",
+	"previous": "Previous Page",
+	"avatar": "Profile Picture",
+	"powered": "powered by",
+	"license": "Creative Commons BY-SA Logo",
+	"credits": "Theme by",
+	"logox": "Logo (Back to homepage)",
+	"share-t": "Share to Twitter/X",
+	"share-f": "Share to Facebook",
+	"share-e": "Share via Email",
+	"tag-filter": "Only showing article with this tag:",
+	"category-filter": "Only showing article in this category:",
+	"navi": "Main Navigation"
+}

@@ -1,0 +1,25 @@
+{
+	"theme-data":
+	{
+		"name": "Solen",
+		"description": "Tema blogging yang cerah dan sederhana"
+	},
+	"welcome": "Selamat datang!",
+	"minutes": "menit",
+	"author": "Penulis",
+	"date": "Tanggal terbit",
+	"read": "Waktu baca",
+	"next": "Halaman Selanjutnya",
+	"previous": "Halaman Sebelumnya",
+	"avatar": "Gambar Profil Pengguna",
+	"powered": "diperkuat oleh",
+	"license": "Logo Lisensi Creative Commons BY-SA",
+	"credits": "Tema oleh",
+	"logox": "Logo (Kembali ke halaman depan)",
+	"share-t": "Bagikan ke Twitter/X",
+	"share-f": "Bagikan ke Facebook",
+	"share-e": "Bagikan via Email",
+	"tag-filter": "Hanya menampilkan artikel dengan tag:",
+	"category-filter": "Hanya menampilkan artikel di kategori ini:",
+	"navi": "Navigasi Utama"
+}

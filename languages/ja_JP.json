@@ -1,0 +1,24 @@
+{
+	"theme-data":
+	{
+		"name": "ソーレン",
+		"description": "ソーレンは、明るくシンプルなブログのテーマ"
+	},
+	"welcome": "ようこそ！",
+	"minutes": "分",
+	"author": "作家",
+	"date": "発行日",
+	"read": "読む時間",
+	"next": "次のページ",
+	"previous": "前のページ",
+	"avatar": "アイコン",
+	"license": "Creative Commons BY-SA ロゴ",
+	"credits": "テーマ:",
+	"logox": "ロゴ (ホームページに戻る)",
+	"share-t": "ツイッターでシェアする",
+	"share-f": "フェイスブックでシェアする",
+	"share-e": "メールでシェアする",
+	"tag-filter": "このタグの記事のみを表示する：",
+	"category-filter": "このコテゴリーの記事のみを表示する：",
+	"navi": "ナビゲーション"
+}
