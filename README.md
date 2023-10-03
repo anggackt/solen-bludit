@@ -24,4 +24,4 @@ Bludit 3.15.0
 
 ![Solen theme performance on PageSpeed for mobile mode showing all 100 for Performance, Accessibility, Best Practice, and SEO](solenpagespeed.webp)
 
-[^1]: Experiences may vary from person to person and use style.
+[^1]: Experiences may vary from person to person and use case.
