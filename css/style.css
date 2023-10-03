@@ -239,6 +239,11 @@ hr, .article_spacer {
     border-top: 1px solid #000000;
 }
 
+.isi_artikel a {
+    color: #DE004A;
+    font-weight: 700;  
+}
+
 /* Truncate Article Fallback sapa teu kan berubah spesifikasinya
 .pratinjau_artikel {
     display: -webkit-box;
