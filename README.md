@@ -14,5 +14,5 @@ A bright and simple Bludit blogging theme made with Picnic CSS and Simple Line I
 
 ## Screenshot
 
-(solenscreenshot.webp)
+![Solen Theme for Bludit](solenscreenshot.webp)
 
