@@ -7,7 +7,7 @@ A bright and simple Bludit blogging theme made with Picnic CSS and Simple Line I
 - Very light on various desktop and mobile browser with responsive design
 - Support for screen reader users
 - Three languages support: Indonesian, English, and Japanese
-- Good contrast ratio
+- Good contrast ratio (WCAG 2.1 AA Compliant)
 - Critical inline CSS and asynchronous CSS load
 - Made with Picnic CSS and Simple Line Icons
 - Minimal and non-intrusive use of Javascript
