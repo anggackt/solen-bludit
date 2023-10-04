@@ -3,7 +3,7 @@
             <a href="<?php echo $site->url() ?>" class="brand"><img src="<?php echo Theme::src('img/logo.svg'); ?>" alt="<?php echo $L->get('logox'); ?>" width="21" height="22"></a>
       
             <!-- responsive-->
-            <input id="bmenub" type="checkbox" class="show" role="button" aria-expanded="false" tabIndex="-1" aria-label="dummy button">
+            <input id="bmenub" type="checkbox" class="show" tabIndex="-1" aria-label="dummy button">
             <label for="bmenub" class="burger toggle pseudo button">Menu &#9776;</label>
       
             <div class="menu">
