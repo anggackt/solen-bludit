@@ -9,7 +9,7 @@ A bright and simple Bludit blogging theme made with Picnic CSS and Simple Line I
 - Three languages support: Indonesian, English, and Japanese
 - Good contrast ratio (WCAG 2.1 AA Compliant)
 - Critical inline CSS and asynchronous CSS load
-- Made with Picnic CSS and Simple Line Icons
+- Made with Picnic CSS and ~~Simple Line Icons~~ SVG Icons
 - Minimal and non-intrusive use of Javascript
 
 ## Compatibility

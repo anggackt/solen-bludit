@@ -3,9 +3,9 @@
                     <h1 class="judul_artikel"><a href="<?php echo $page->permalink() ?>"><?php echo $page->title() ?></a></h1>
                     <?php if (!$page->isStatic() && !$url->notFound()) : ?>
                     <div class="meta_top">
-                        <span class="meta_author"><i class="icon-user" aria-hidden="true" title="<?php echo $L->get('author') ?>"></i><span class="sr-only"><?php echo $L->get('author') ?></span>&nbsp;<?php echo $page->user('nickname'); ?></span>
-                        <span class="meta_read"><i class="icon-clock" aria-hidden="true" title="<?php echo $L->get('read') ?>"></i><span class="sr-only"><?php echo $L->get('read') ?></span>&nbsp;<?php echo $page->readingTime() ?></span>
-                        <time datetime="<?php echo $page->date('Y-m-d') ?>" class="meta_date"><i class="icon-calendar" aria-hidden="true" title="<?php echo $L->get('date') ?>"></i><span class="sr-only"><?php echo $L->get('date') ?></span>&nbsp;<?php echo $page->date() ?></time>
+                        <span class="meta_author"><img src="<?php echo Theme::src('img/user.svg'); ?>" alt="<?php echo $L->get('author') ?>" title="<?php echo $L->get('author') ?>" width="13" height="13">&nbsp;<?php echo $page->user('nickname'); ?></span>
+                        <span class="meta_read"><img src="<?php echo Theme::src('img/clock.svg'); ?>" alt="<?php echo $L->get('read') ?>" title="<?php echo $L->get('read') ?>" width="13" height="13">&nbsp;<?php echo $page->readingTime() ?></span>
+                        <time datetime="<?php echo $page->date('Y-m-d') ?>" class="meta_date"><img src="<?php echo Theme::src('img/calendar.svg'); ?>" alt="<?php echo $L->get('date') ?>" title="<?php echo $L->get('date') ?>" width="13" height="13">&nbsp;<?php echo $page->date() ?></time>
                     </div>
                     <div class="featured_image card"><a href="<?php echo $page->coverImage(); ?>" aria-label="<?php echo $page->title() ?>"><?php if ($page->coverImage()): ?><img src="<?php echo $page->coverImage(); ?>" alt="<?php echo $page->title(); ?>"><?php endif ?></a></div>
                     <?php endif ?>
