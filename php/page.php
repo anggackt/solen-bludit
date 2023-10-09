@@ -27,10 +27,10 @@
             <div class="section_wrapper">
                 <div>
                     <div class="share_icons">
-                        <i class="icon-share ikon_berbagi" aria-hidden="true"></i>
-                        <a href="https://twitter.com/intent/tweet?source=<?php echo $page->permalink() ?>&text=<?php echo $page->title() ?>:%20<?php echo $page->permalink() ?>" target="_blank" title="Share on Twitter/X" data-tooltip="Bagikan ke Twitter" class="tooltip-bottom" aria-label="<?php echo $L->get('share-t') ?>"><i class="icon-social-twitter" aria-hidden="true"></i></a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $page->permalink() ?>&quote=<?php echo $page->title() ?>" target="_blank" title="Share on Facebook" data-tooltip="Bagikan ke Facebook" class="tooltip-bottom" aria-label="<?php echo $L->get('share-f') ?>"><i class="icon-social-facebook" aria-hidden="true"></i></a>
-                        <a href="mailto:?subject=<?php echo $page->title() ?>&body=<?php echo $page->description(); ?>:%20<?php echo $page->permalink() ?>" data-tooltip="Bagikan via surel" class="tooltip-bottom" aria-label="<?php echo $L->get('share-e') ?>"><i class="icon-envelope" aria-hidden="true"></i></a>
+                        <img src="<?php echo Theme::src('img/share.svg'); ?>" alt="" class="icon-share ikon_berbagi" aria-hidden="true">
+                        <a href="https://twitter.com/intent/tweet?source=<?php echo $page->permalink() ?>&text=<?php echo $page->title() ?>:%20<?php echo $page->permalink() ?>" target="_blank" title="Share on Twitter/X" data-tooltip="Bagikan ke Twitter" class="tooltip-bottom" aria-label="<?php echo $L->get('share-t') ?>"><img src="<?php echo Theme::src('img/twitter.svg'); ?>" alt="" aria-hidden="true"></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $page->permalink() ?>&quote=<?php echo $page->title() ?>" target="_blank" title="Share on Facebook" data-tooltip="Bagikan ke Facebook" class="tooltip-bottom" aria-label="<?php echo $L->get('share-f') ?>"><img src="<?php echo Theme::src('img/facebook.svg'); ?>" alt="" aria-hidden="true"></a>
+                        <a href="mailto:?subject=<?php echo $page->title() ?>&body=<?php echo $page->description(); ?>:%20<?php echo $page->permalink() ?>" data-tooltip="Bagikan via surel" class="tooltip-bottom" aria-label="<?php echo $L->get('share-e') ?>"><img src="<?php echo Theme::src('img/mail.svg'); ?>" alt="" aria-hidden="true"></a>
                     </div>
                 </div>
             </div>
