@@ -409,6 +409,23 @@ a04. Sidebar Area
     margin: 0 0px 0 10px;
 }
 
+.plugin-search [type=button] {
+    font-weight: 900;
+    margin: 5px 0 0 0;
+    border: 1px solid #DE004A;
+    background-color: #DE004A;
+    border-radius: 3px;
+    color: #ffffff;
+    width: 80px;
+    position: relative;
+    float: right;
+    top: -42px;
+    right: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    height: 38px;
+}
+
 /*========================================
 a05. Footer Area
 ==========================================*/
