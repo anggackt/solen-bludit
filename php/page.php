@@ -21,6 +21,7 @@
                         </ul>
                     </div>
                     <?php endif; ?>
+                    <?php Theme::plugins('pageEnd'); ?>
                 </article>
                 <div class="article_spacer"></div>
             </div>
