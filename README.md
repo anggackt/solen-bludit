@@ -1,6 +1,6 @@
 # Solen for Bludit Theme
 
-A bright and simple Bludit blogging theme made with Picnic CSS and Simple Line Icons with support for screen reader users. 
+A bright and simple Bludit blogging theme made with Picnic CSS with support for screen reader users. 
 
 ## Features
 
